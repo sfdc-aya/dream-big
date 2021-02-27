@@ -1,0 +1,17 @@
+.wrapper{
+    position: relative;
+    width: 100%;
+}
+.img{
+    width:100%;
+}    
+
+.center{
+    display: inline-block;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    font-size: xx-large;
+    color: red;
+    
+}
